@@ -1,0 +1,269 @@
+{
+    "nav": {
+        "links": [
+            {
+                "label": "The Standard",
+                "href": "#standard"
+            },
+            {
+                "label": "Experience",
+                "href": "#experience"
+            },
+            {
+                "label": "Philosophy",
+                "href": "#philosophy"
+            },
+            {
+                "label": "Reach",
+                "href": "#reach"
+            }
+        ],
+        "cta": "Enquire"
+    },
+    "hero": {
+        "eyebrow": "The Six Standard™",
+        "headlineLines": [
+            "Business",
+            "travel, elevated."
+        ],
+        "image": {
+            "src": "https://images.unsplash.com/photo-1694018359679-49465b4c0d61?fm=jpg&q=80&w=2400&auto=format&fit=crop",
+            "alt": "The Kingdom Centre skyscraper against a warm orange sky in Riyadh, Saudi Arabia"
+        },
+        "quickFacts": [
+            {
+                "label": "For",
+                "value": "Executives & Leadership Teams"
+            },
+            {
+                "label": "Coverage",
+                "value": "Global, Every Destination"
+            },
+            {
+                "label": "Standard",
+                "value": "Anticipation to Execution"
+            }
+        ],
+        "ctaLabel": "Enquire",
+        "paragraph": "Business moves with purpose. Your travel should move with the same precision — a premium corporate travel house for executives, leadership teams, and organizations operating across borders."
+    },
+    "standard": {
+        "eyebrow": "The Six Standard™",
+        "heading": "Six principles. One distinctive way of travel.",
+        "intro": "The Six Standard is more than a service philosophy. It is the discipline behind every journey we deliver.",
+        "principles": [
+            {
+                "number": "01",
+                "title": "Anticipation",
+                "line": "We move before you have to.",
+                "body": "Exceptional travel begins before departure. We anticipate changing schedules, evolving priorities, and connection points — because the finest service isn't reactive. It's already there when you need it."
+            },
+            {
+                "number": "02",
+                "title": "Simplicity",
+                "line": "Complexity, refined.",
+                "body": "Global business travel can involve countless moving parts — multiple travelers, multiple destinations, demanding schedules. We bring them together with clarity. Behind the scenes, we coordinate everything. In front of you, it feels effortless."
+            },
+            {
+                "number": "03",
+                "title": "Elevation",
+                "line": "Ordinary will never be the standard.",
+                "body": "Every element of the journey is selected with intention — the right flight, the right address, the right vehicle. We don't add luxury for the sake of appearance. We elevate what matters."
+            },
+            {
+                "number": "04",
+                "title": "Connection",
+                "line": "Every detail, in perfect sync.",
+                "body": "A journey is only as seamless as the connections between its parts — air, accommodation, ground transportation, events, people. SIX brings them together as one continuous experience. Nothing fragmented. Nothing overlooked."
+            },
+            {
+                "number": "05",
+                "title": "Protection",
+                "line": "Your time deserves to be protected.",
+                "body": "Time is the one business asset that cannot be recovered. We eliminate unnecessary coordination and manage the details that compete for your attention — so you can arrive focused, and leave with your time intact."
+            },
+            {
+                "number": "06",
+                "title": "Execution",
+                "line": "Excellence is what happens next.",
+                "body": "A promise means little without execution. SIX TRAVEL operates with precision, accountability, and attention to detail at every stage of the journey — from the first itinerary to the final arrival."
+            }
+        ]
+    },
+    "experience": {
+        "eyebrow": "The Six Experience",
+        "heading": "One journey. Every element connected.",
+        "items": {
+            "fly": {
+                "label": "Fly",
+                "body": "Global air travel curated around your schedule and priorities.",
+                "image": {
+                    "src": "https://images.unsplash.com/photo-1613744696511-fd64320d6c7b?fm=jpg&q=80&w=1600&auto=format&fit=crop",
+                    "alt": "Airplane wing above clouds, representing global air travel"
+                }
+            },
+            "stay": {
+                "label": "Stay",
+                "body": "Exceptional hotels and executive residences, selected for distinction.",
+                "image": {
+                    "src": "https://images.unsplash.com/photo-1621293954908-907159247fc8?fm=jpg&q=80&w=1600&auto=format&fit=crop",
+                    "alt": "Modern hotel lobby with designer furniture"
+                }
+            },
+            "move": {
+                "label": "Move",
+                "body": "Private transfers and executive transportation, coordinated from arrival to departure."
+            },
+            "connect": {
+                "label": "Connect",
+                "body": "Corporate meetings, conferences, and business experiences managed with precision."
+            },
+            "group": {
+                "label": "Group",
+                "body": "Coordination for leadership teams and delegations.",
+                "image": {
+                    "src": "https://images.unsplash.com/photo-1532968899863-5b52ef155913?fm=jpg&q=80&w=1600&auto=format&fit=crop",
+                    "alt": "Group of business travelers walking together"
+                }
+            },
+            "manage": {
+                "label": "Manage",
+                "body": "A single, dedicated partner overseeing the complete corporate travel experience.",
+                "ctaLabel": "Speak to the team"
+            }
+        }
+    },
+    "philosophy": {
+        "eyebrow": "Our Philosophy",
+        "headingLines": [
+            "The best service is felt,",
+            "not announced."
+        ],
+        "lines": [
+            "True luxury is rarely loud.",
+            "It is the car waiting precisely when you arrive.",
+            "The room prepared exactly as expected.",
+            "The itinerary that anticipates the next move.",
+            "The person who already understands what you need."
+        ],
+        "closing": "That is the Six Standard."
+    },
+    "reach": {
+        "badges": [
+            "Six Travel",
+            "The Six Standard™"
+        ],
+        "headlineParts": [
+            "One partner means",
+            "every destination."
+        ],
+        "eyebrow": "01 — Global Reach",
+        "heading": "A consistent standard, wherever business takes you.",
+        "paragraph": "From the world's leading business capitals to emerging markets, SIX TRAVEL creates a consistent level of service wherever business takes you.",
+        "ctaLabel": "Enquire about your destination",
+        "featuredCities": [
+            {
+                "name": "New York",
+                "image": {
+                    "src": "https://images.unsplash.com/photo-1496588152823-86ff7695e68f?fm=jpg&q=80&w=1600&auto=format&fit=crop",
+                    "alt": "New York City skyline with Brooklyn Bridge"
+                }
+            },
+            {
+                "name": "Dubai",
+                "image": {
+                    "src": "https://images.unsplash.com/photo-1663768266259-d723cfbe969b?fm=jpg&q=80&w=1200&auto=format&fit=crop",
+                    "alt": "Dubai skyline"
+                }
+            },
+            {
+                "name": "Singapore",
+                "image": {
+                    "src": "https://images.unsplash.com/photo-1774075884764-be7319c06e08?fm=jpg&q=80&w=1200&auto=format&fit=crop",
+                    "alt": "Singapore skyline with Marina Bay Sands"
+                }
+            }
+        ],
+        "allCities": [
+            "New York",
+            "London",
+            "Dubai",
+            "Singapore",
+            "Paris",
+            "Riyadh",
+            "Tokyo"
+        ],
+        "closingNote": "and wherever your next opportunity leads."
+    },
+    "contact": {
+        "eyebrow": "Enquire",
+        "heading": "Let's plan your next journey.",
+        "paragraph": "Tell us about your team and where business takes you. A Six Travel specialist will follow up with a tailored plan.",
+        "serviceOptions": [
+            {
+                "value": "fly",
+                "label": "Fly — Air travel"
+            },
+            {
+                "value": "stay",
+                "label": "Stay — Accommodations"
+            },
+            {
+                "value": "move",
+                "label": "Move — Ground transfers"
+            },
+            {
+                "value": "connect",
+                "label": "Connect — Events & meetings"
+            },
+            {
+                "value": "group",
+                "label": "Group — Team coordination"
+            },
+            {
+                "value": "manage",
+                "label": "Manage — Full program"
+            }
+        ],
+        "successHeading": "Request received.",
+        "successBody": "A member of the Six Travel team will follow up within one business day.",
+        "placeholders": {
+            "name": "Your name",
+            "company": "Your company",
+            "email": "you@yourcompany.com",
+            "phone": "+91 98765 43210",
+            "message": "Team size, destinations, travel dates..."
+        }
+    },
+    "audience": {
+        "eyebrow": "Built For Those Who Move The World",
+        "heading": "Designed around the people who carry the business forward.",
+        "segments": [
+            {
+                "title": "Executives",
+                "body": "Travel designed around your time, preferences, privacy, and priorities."
+            },
+            {
+                "title": "Leadership Teams",
+                "body": "Sophisticated movement for the people responsible for moving businesses forward."
+            },
+            {
+                "title": "Global Organizations",
+                "body": "A consistent travel standard across markets, destinations, and teams."
+            },
+            {
+                "title": "Corporate Events",
+                "body": "Seamless travel infrastructure for the meetings, gatherings, and experiences that bring business together."
+            }
+        ]
+    },
+    "footer": {
+        "closingLines": [
+            "Business in motion.",
+            "Travel, perfected."
+        ],
+        "closingSubline": "Global Reach. Exceptional Service. Impeccable Execution.",
+        "contactEmail": "hello@sixtravel.studio",
+        "copyright": "Six Travel. All rights reserved."
+    }
+}
