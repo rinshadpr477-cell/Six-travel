@@ -1,10 +1,12 @@
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
-import SixStandard from "@/components/SixStandard";
-import SixExperience from "@/components/SixExperience";
-import Philosophy from "@/components/Philosophy";
+import Portfolio from "@/components/Portfolio";
+import Kerala from "@/components/Kerala";
 import GlobalReach from "@/components/GlobalReach";
-import Audience from "@/components/Audience";
+import Enterprise from "@/components/Enterprise";
+import Curation from "@/components/Curation";
+import SixStandard from "@/components/SixStandard";
+import Selective from "@/components/Selective";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
 
@@ -14,11 +16,13 @@ export default function Home() {
       <Header />
       <main>
         <Hero />
-        <SixStandard />
-        <SixExperience />
-        <Philosophy />
+        <Portfolio />
+        <Kerala />
         <GlobalReach />
-        <Audience />
+        <Enterprise />
+        <Curation />
+        <SixStandard />
+        <Selective />
         <Contact />
       </main>
       <Footer />

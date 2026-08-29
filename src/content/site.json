@@ -23,8 +23,8 @@
     "hero": {
         "eyebrow": "The Six Standard™",
         "headlineLines": [
-            "Business",
-            "travel, elevated."
+            "The world, beautifully",
+            "within reach."
         ],
         "image": {
             "src": "https://images.unsplash.com/photo-1694018359679-49465b4c0d61?fm=jpg&q=80&w=2400&auto=format&fit=crop",
@@ -32,61 +32,172 @@
         },
         "quickFacts": [
             {
-                "label": "For",
-                "value": "Executives & Leadership Teams"
+                "label": "Portfolio",
+                "value": "Private, Corporate & Six Select"
             },
             {
-                "label": "Coverage",
-                "value": "Global, Every Destination"
+                "label": "Origin",
+                "value": "Kerala, India"
             },
             {
-                "label": "Standard",
-                "value": "Anticipation to Execution"
+                "label": "Reach",
+                "value": "Kerala to the World"
             }
         ],
         "ctaLabel": "Enquire",
-        "paragraph": "Business moves with purpose. Your travel should move with the same precision — a premium corporate travel house for executives, leadership teams, and organizations operating across borders."
+        "paragraph": "Sixtravel is a premium travel company creating sophisticated journeys across Kerala, India, and the world — private escapes, family journeys, executive travel, corporate movements, destination experiences, and founder-led journeys, brought together with discernment."
+    },
+    "portfolio": {
+        "eyebrow": "Our Portfolio",
+        "heading": "Three ways to travel. One distinctive standard.",
+        "ways": [
+            {
+                "title": "Private Travel",
+                "tagline": "Your time. Your world. Your way.",
+                "body": "Travel created around you. Private escapes, family journeys, honeymoons, celebrations, wellness retreats, cultural discoveries, and bespoke itineraries designed with the freedom to move at your own pace.",
+                "ctaLabel": "Explore Private Travel"
+            },
+            {
+                "title": "Corporate Travel",
+                "tagline": "Business without the friction.",
+                "body": "When business takes you across borders, precision matters. SIX TRAVEL manages sophisticated corporate journeys for executives, leadership teams, companies, delegations, meetings, events, incentives, and retreats.",
+                "ctaLabel": "Explore Corporate Travel"
+            },
+            {
+                "title": "Six Select",
+                "tagline": "For people building what's next.",
+                "body": "A curated travel collection for founders, entrepreneurs, startup teams, creators, and ambitious travelers. Exceptional destinations meet meaningful experiences and genuine connection.",
+                "ctaLabel": "Discover Six Select"
+            }
+        ]
+    },
+    "kerala": {
+        "eyebrow": "Heritage & Origin",
+        "heading": "Kerala. An extraordinary world of its own.",
+        "intro": "Kerala is not simply where we operate. It is where our understanding of travel begins. SIX TRAVEL reveals Kerala through a more discerning lens — connecting travelers with remarkable stays, intimate experiences, extraordinary landscapes, and the cultural character that exists beyond the postcard.",
+        "regions": [
+            {
+                "title": "Backwaters",
+                "tagline": "Stillness, in motion.",
+                "body": "Private waterways, elegant houseboats, secluded waterfront retreats, and mornings that unfold at the pace of the water."
+            },
+            {
+                "title": "Highlands",
+                "tagline": "Where the world slows down.",
+                "body": "Tea estates, spice plantations, mountain forests, mist-covered landscapes, and extraordinary highland retreats."
+            },
+            {
+                "title": "Coast",
+                "tagline": "The Arabian Sea, reimagined.",
+                "body": "Tropical shores, refined coastal properties, private escapes, and endless horizons."
+            },
+            {
+                "title": "Heritage",
+                "tagline": "Where the past remains present.",
+                "body": "Architecture, craftsmanship, traditions, art, and stories carried through generations."
+            },
+            {
+                "title": "Culinary",
+                "tagline": "The flavour of a place.",
+                "body": "Malabar traditions, coastal cuisine, local ingredients, heritage recipes, and exceptional dining experiences."
+            },
+            {
+                "title": "Wellness",
+                "tagline": "The luxury of time.",
+                "body": "Ayurveda, nature, stillness, restorative hospitality, and the freedom to disconnect from the noise."
+            }
+        ],
+        "ctaLabel": "Explore Kerala"
+    },
+    "enterprise": {
+        "eyebrow": "Enterprise Solutions",
+        "heading": "Corporate journeys. Take business beyond borders.",
+        "items": [
+            {
+                "title": "Executive Travel",
+                "body": "Seamless journeys designed around demanding schedules."
+            },
+            {
+                "title": "Corporate Delegations",
+                "body": "Coordinated travel for teams moving together across destinations."
+            },
+            {
+                "title": "Business Events",
+                "body": "Travel management for conferences, exhibitions, meetings, launches, and corporate occasions."
+            },
+            {
+                "title": "Incentive Journeys",
+                "body": "Exceptional destination experiences designed to recognize and reward people."
+            },
+            {
+                "title": "Leadership Retreats",
+                "body": "Thoughtfully curated environments for leadership, strategy, connection, and renewal."
+            }
+        ],
+        "closing": "Flights, accommodation, transportation, and destination logistics managed through one partner.",
+        "closingLabel": "Excellence in Execution"
+    },
+    "curation": {
+        "eyebrow": "The Six Experience\u2122 & The Art of Curation",
+        "blocks": [
+            {
+                "title": "The Six Experience\u2122",
+                "heading": "We don't simply arrange the journey. We compose it.",
+                "body": "The finest travel experiences are rarely defined by a single hotel or destination. They are created through the relationship between every detail: the arrival, the property, the room, the view, the vehicle, the table, the experience, the moment between destinations."
+            },
+            {
+                "title": "The Art of Curation",
+                "heading": "We don't simply choose. We edit.",
+                "body": "The world offers endless possibilities. Our value lies in knowing which ones deserve your time. Find the exceptional. Remove the unnecessary. Create the unforgettable."
+            }
+        ]
+    },
+    "selective": {
+        "eyebrow": "Selective By Design",
+        "heading": "Exceptional travel demands attention.",
+        "body": "SIX TRAVEL is not built around volume. We believe truly considered travel requires time \u2014 to understand the traveler, study the destination, refine the details, and create something genuinely distinctive. So we remain selective.",
+        "closing": "Fewer templates. Greater imagination. Closer attention. More memorable journeys."
     },
     "standard": {
-        "eyebrow": "The Six Standard™",
-        "heading": "Six principles. One distinctive way of travel.",
+        "eyebrow": "Core Principles",
+        "heading": "The Six Standard\u2122 \u2014 a higher expectation of travel.",
         "intro": "The Six Standard is more than a service philosophy. It is the discipline behind every journey we deliver.",
         "principles": [
             {
                 "number": "01",
-                "title": "Anticipation",
-                "line": "We move before you have to.",
-                "body": "Exceptional travel begins before departure. We anticipate changing schedules, evolving priorities, and connection points — because the finest service isn't reactive. It's already there when you need it."
+                "title": "Curation",
+                "line": "Chosen with taste, relevance, and intention.",
+                "body": "The world offers endless possibilities. Our value lies in knowing which ones deserve your time."
             },
             {
                 "number": "02",
-                "title": "Simplicity",
-                "line": "Complexity, refined.",
-                "body": "Global business travel can involve countless moving parts — multiple travelers, multiple destinations, demanding schedules. We bring them together with clarity. Behind the scenes, we coordinate everything. In front of you, it feels effortless."
+                "title": "Personalization",
+                "line": "Built around the traveler, not a predetermined package.",
+                "body": "Nothing templated. Nothing excessive. Everything considered around who you are and how you move."
             },
             {
                 "number": "03",
-                "title": "Elevation",
-                "line": "Ordinary will never be the standard.",
-                "body": "Every element of the journey is selected with intention — the right flight, the right address, the right vehicle. We don't add luxury for the sake of appearance. We elevate what matters."
+                "title": "Precision",
+                "line": "Every transition, reservation, and detail thoughtfully coordinated.",
+                "body": "The finest travel experiences are created through the relationship between every detail, not a single hotel or destination."
             },
             {
                 "number": "04",
-                "title": "Connection",
-                "line": "Every detail, in perfect sync.",
-                "body": "A journey is only as seamless as the connections between its parts — air, accommodation, ground transportation, events, people. SIX brings them together as one continuous experience. Nothing fragmented. Nothing overlooked."
+                "title": "Discovery",
+                "line": "Beyond landmarks and into the character of a destination.",
+                "body": "Less itinerary. More immersion. Less tourism. More discovery."
             },
             {
                 "number": "05",
-                "title": "Protection",
-                "line": "Your time deserves to be protected.",
-                "body": "Time is the one business asset that cannot be recovered. We eliminate unnecessary coordination and manage the details that compete for your attention — so you can arrive focused, and leave with your time intact."
+                "title": "Service",
+                "line": "Discreet, responsive, and attentive from departure to return.",
+                "body": "True luxury is rarely loud. It is the detail already handled before you have to ask."
             },
             {
                 "number": "06",
-                "title": "Execution",
-                "line": "Excellence is what happens next.",
-                "body": "A promise means little without execution. SIX TRAVEL operates with precision, accountability, and attention to detail at every stage of the journey — from the first itinerary to the final arrival."
+                "title": "Experience",
+                "line": "Because the ultimate measure of a journey is what remains after it ends.",
+                "body": "We do not simply arrange the journey. We compose it \u2014 so what remains is worth remembering."
             }
         ]
     },
@@ -151,16 +262,16 @@
     "reach": {
         "badges": [
             "Six Travel",
-            "The Six Standard™"
+            "Beyond Kerala"
         ],
         "headlineParts": [
-            "One partner means",
-            "every destination."
+            "The world,",
+            "selected with discernment."
         ],
-        "eyebrow": "01 — Global Reach",
-        "heading": "A consistent standard, wherever business takes you.",
-        "paragraph": "From the world's leading business capitals to emerging markets, SIX TRAVEL creates a consistent level of service wherever business takes you.",
-        "ctaLabel": "Enquire about your destination",
+        "eyebrow": "Global Reach",
+        "heading": "Our world is curated, not catalogued.",
+        "paragraph": "Our perspective extends far beyond home. SIX TRAVEL curates journeys across global cities, private islands, distinguished coastlines, mountain retreats, cultural capitals, emerging destinations, and international business hubs.",
+        "ctaLabel": "Explore International",
         "featuredCities": [
             {
                 "name": "New York",
@@ -259,10 +370,10 @@
     },
     "footer": {
         "closingLines": [
-            "Business in motion.",
-            "Travel, perfected."
+            "Go somewhere worth",
+            "remembering."
         ],
-        "closingSubline": "Global Reach. Exceptional Service. Impeccable Execution.",
+        "closingSubline": "Kerala to the World. One Travel House. An Endless Horizon.",
         "contactEmail": "hello@sixtravel.studio",
         "copyright": "Six Travel. All rights reserved."
     }
