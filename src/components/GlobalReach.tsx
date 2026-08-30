@@ -43,9 +43,19 @@ export default function GlobalReach() {
 
           <div className="grid grid-cols-2 gap-3">
             {reach.featuredCities.map((city, i) => (
-              <div key={city.name} className={`relative h-40 overflow-hidden ${i === 0 ? "col-span-2 h-56" : ""}`}>
-                <Image src={city.image.src} alt={city.image.alt} fill className="object-cover" />
-                <p className="eyebrow absolute bottom-3 left-3 !text-stone/90">{city.name}</p>
+              <div
+                key={city.name}
+                className={`group relative h-40 overflow-hidden rounded-2xl ${i === 0 ? "col-span-2 h-56" : ""}`}
+              >
+                <Image src={city.image.src} alt={city.image.alt} fill className="object-cover transition-transform duration-500 group-hover:scale-105" />
+                <div className="absolute inset-0 bg-gradient-to-t from-ink/70 via-ink/10 to-transparent" />
+                <span className="absolute right-3 top-3 flex h-9 w-9 items-center justify-center rounded-full bg-stone/90 text-ink transition-colors group-hover:bg-stone">
+                  <span aria-hidden="true" className="text-sm">&#8599;</span>
+                </span>
+                <div className="absolute bottom-3 left-4">
+                  <p className="font-display text-lg text-stone">{city.name}</p>
+                  <p className="text-xs text-stone/75">Curated by Six Travel</p>
+                </div>
               </div>
             ))}
           </div>
