@@ -2,6 +2,7 @@ import Hero from "@/components/Hero";
 import DifferentWay from "@/components/DifferentWay";
 import Excellence from "@/components/Excellence";
 import Destinations from "@/components/Destinations";
+import KeralaBanner from "@/components/KeralaBanner";
 import Kerala from "@/components/Kerala";
 import Portfolio from "@/components/Portfolio";
 import GlobalReach from "@/components/GlobalReach";
@@ -22,6 +23,7 @@ export default function Home() {
         <DifferentWay />
         <Excellence />
         <Destinations />
+        <KeralaBanner />
         <Kerala />
         <Portfolio />
         <GlobalReach />

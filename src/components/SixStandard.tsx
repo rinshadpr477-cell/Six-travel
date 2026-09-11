@@ -1,11 +1,21 @@
+import Image from "next/image";
 import site from "@/content/site.json";
 
 export default function SixStandard() {
   const { standard } = site;
 
   return (
-    <section id="standard" className="border-t border-line py-24 md:py-32">
-      <div className="mx-auto max-w-6xl px-6 md:px-10">
+    <section id="standard" className="relative overflow-hidden border-t border-line py-24 md:py-32">
+      <div className="absolute inset-0 opacity-[0.08]">
+        <Image
+          src={standard.backgroundImage.src}
+          alt={standard.backgroundImage.alt}
+          fill
+          className="object-cover"
+        />
+      </div>
+
+      <div className="relative mx-auto max-w-6xl px-6 md:px-10">
         <p className="eyebrow mb-4">{standard.eyebrow}</p>
         <h2 className="font-display max-w-xl text-4xl leading-tight text-ink md:text-5xl">
           {standard.heading}

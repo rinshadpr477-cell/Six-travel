@@ -1,24 +1,48 @@
 {
   "nav": {
     "links": [
-      { "label": "The Standard", "href": "#standard" },
-      { "label": "Experience", "href": "#experience" },
-      { "label": "Philosophy", "href": "#philosophy" },
-      { "label": "Reach", "href": "#reach" }
+      {
+        "label": "The Standard",
+        "href": "#standard"
+      },
+      {
+        "label": "Experience",
+        "href": "#experience"
+      },
+      {
+        "label": "Philosophy",
+        "href": "#philosophy"
+      },
+      {
+        "label": "Reach",
+        "href": "#reach"
+      }
     ],
     "cta": "Enquire"
   },
   "hero": {
     "eyebrow": "The Six Standard\u2122",
-    "headlineLines": ["The world, beautifully", "within reach."],
+    "headlineLines": [
+      "The world, beautifully",
+      "within reach."
+    ],
     "image": {
       "src": "https://images.unsplash.com/photo-1694018359679-49465b4c0d61?fm=jpg&q=80&w=2400&auto=format&fit=crop",
       "alt": "The Kingdom Centre skyscraper against a warm orange sky in Riyadh, Saudi Arabia"
     },
     "quickFacts": [
-      { "label": "Portfolio", "value": "Private, Corporate & Six Select" },
-      { "label": "Origin", "value": "Kerala, India" },
-      { "label": "Reach", "value": "Kerala to the World" }
+      {
+        "label": "Portfolio",
+        "value": "Private, Corporate & Six Select"
+      },
+      {
+        "label": "Origin",
+        "value": "Kerala, India"
+      },
+      {
+        "label": "Reach",
+        "value": "Kerala to the World"
+      }
     ],
     "ctaLabel": "Enquire",
     "paragraph": "Sixtravel is a premium travel company creating sophisticated journeys across Kerala, India, and the world \u2014 private escapes, family journeys, executive travel, corporate movements, destination experiences, and founder-led journeys, brought together with discernment."
@@ -33,9 +57,19 @@
     "heading": "Effortless excellence.",
     "body": "Luxury isn't simply where you stay. It's everything in between. A remarkable journey is built through hundreds of details: the right destination, the right property, the right route, the right people, the right experience, the right moment. We bring these elements together with precision and purpose. Because true luxury is not excess. It is effortless excellence.",
     "pairs": [
-      { "less": "Itinerary", "more": "Immersion" },
-      { "less": "Ordinary", "more": "Six" }
-    ]
+      {
+        "less": "Itinerary",
+        "more": "Immersion"
+      },
+      {
+        "less": "Ordinary",
+        "more": "Six"
+      }
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1523496922380-91d5afba98a3?fm=jpg&q=80&w=1600&auto=format&fit=crop",
+      "alt": "Aerial view of a boat gliding across calm turquoise water"
+    }
   },
   "portfolio": {
     "eyebrow": "Our Portfolio",
@@ -45,31 +79,51 @@
         "title": "Private Travel",
         "tagline": "Your journey. Your way.",
         "body": "Private escapes, family holidays, celebrations, romantic getaways, and completely personalized journeys, designed around your pace, interests, preferences, and sense of discovery. Personal. Private. Distinctly yours.",
-        "ctaLabel": "Explore Private Travel"
+        "ctaLabel": "Explore Private Travel",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?fm=jpg&q=80&w=1600&auto=format&fit=crop",
+          "alt": "Sunloungers facing a resort with mountain views, private escape"
+        }
       },
       {
         "title": "Corporate Travel",
         "tagline": "Business, without the friction.",
         "body": "Executive travel, corporate movements, business delegations, leadership retreats, incentive journeys, and destination programs. We coordinate the details behind seamless corporate travel. Precision in motion.",
-        "ctaLabel": "Explore Corporate Travel"
+        "ctaLabel": "Explore Corporate Travel",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1613744696511-fd64320d6c7b?fm=jpg&q=80&w=1600&auto=format&fit=crop",
+          "alt": "Airplane wing above clouds, representing global air travel"
+        }
       },
       {
         "title": "Six Select",
         "tagline": "For people building what's next.",
         "body": "A curated travel collection for founders, entrepreneurs, startup teams, creators, and ambitious travelers. Exceptional destinations meet meaningful experiences and genuine connection.",
-        "ctaLabel": "Discover Six Select"
+        "ctaLabel": "Discover Six Select",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1521109464564-2fa2faa95858?fm=jpg&q=80&w=1600&auto=format&fit=crop",
+          "alt": "Boats on open water under a dramatic sky"
+        }
       },
       {
         "title": "Destination Experiences",
         "tagline": "Go beyond the obvious.",
         "body": "Travel should be more than arriving somewhere and checking a destination off a list. We create experiences around culture, cuisine, nature, design, discovery, wellness, adventure, and connection.",
-        "ctaLabel": "See more, experience more"
+        "ctaLabel": "See more, experience more",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1496588152823-86ff7695e68f?fm=jpg&q=80&w=1600&auto=format&fit=crop",
+          "alt": "New York City skyline with Brooklyn Bridge"
+        }
       },
       {
         "title": "Curated Journeys",
         "tagline": "Designed around the experience.",
         "body": "For individuals, families, groups, and organizations, we create complete journeys where accommodation, transportation, destinations, dining, and hospitality come together naturally. No generic templates.",
-        "ctaLabel": "Design my journey"
+        "ctaLabel": "Design my journey",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1532968899863-5b52ef155913?fm=jpg&q=80&w=1600&auto=format&fit=crop",
+          "alt": "Group of travelers walking together"
+        }
       }
     ]
   },
@@ -99,12 +153,36 @@
     "heading": "Kerala. An extraordinary world of its own.",
     "intro": "Kerala is not simply where we operate. It is where our understanding of travel begins. SIX TRAVEL reveals Kerala through a more discerning lens \u2014 connecting travelers with remarkable stays, intimate experiences, extraordinary landscapes, and the cultural character that exists beyond the postcard.",
     "regions": [
-      { "title": "Backwaters", "tagline": "Stillness, in motion.", "body": "Private waterways, elegant houseboats, secluded waterfront retreats, and mornings that unfold at the pace of the water." },
-      { "title": "Highlands", "tagline": "Where the world slows down.", "body": "Tea estates, spice plantations, mountain forests, mist-covered landscapes, and extraordinary highland retreats." },
-      { "title": "Coast", "tagline": "The Arabian Sea, reimagined.", "body": "Tropical shores, refined coastal properties, private escapes, and endless horizons." },
-      { "title": "Heritage", "tagline": "Where the past remains present.", "body": "Architecture, craftsmanship, traditions, art, and stories carried through generations." },
-      { "title": "Culinary", "tagline": "The flavour of a place.", "body": "Malabar traditions, coastal cuisine, local ingredients, heritage recipes, and exceptional dining experiences." },
-      { "title": "Wellness", "tagline": "The luxury of time.", "body": "Ayurveda, nature, stillness, restorative hospitality, and the freedom to disconnect from the noise." }
+      {
+        "title": "Backwaters",
+        "tagline": "Stillness, in motion.",
+        "body": "Private waterways, elegant houseboats, secluded waterfront retreats, and mornings that unfold at the pace of the water."
+      },
+      {
+        "title": "Highlands",
+        "tagline": "Where the world slows down.",
+        "body": "Tea estates, spice plantations, mountain forests, mist-covered landscapes, and extraordinary highland retreats."
+      },
+      {
+        "title": "Coast",
+        "tagline": "The Arabian Sea, reimagined.",
+        "body": "Tropical shores, refined coastal properties, private escapes, and endless horizons."
+      },
+      {
+        "title": "Heritage",
+        "tagline": "Where the past remains present.",
+        "body": "Architecture, craftsmanship, traditions, art, and stories carried through generations."
+      },
+      {
+        "title": "Culinary",
+        "tagline": "The flavour of a place.",
+        "body": "Malabar traditions, coastal cuisine, local ingredients, heritage recipes, and exceptional dining experiences."
+      },
+      {
+        "title": "Wellness",
+        "tagline": "The luxury of time.",
+        "body": "Ayurveda, nature, stillness, restorative hospitality, and the freedom to disconnect from the noise."
+      }
     ],
     "ctaLabel": "Explore Kerala"
   },
@@ -113,29 +191,97 @@
     "heading": "The Six Standard\u2122 \u2014 a higher expectation of travel.",
     "intro": "The Six Standard is more than a service philosophy. It is the discipline behind every journey we deliver.",
     "principles": [
-      { "number": "01", "title": "Curation", "line": "We choose with intention, not volume.", "body": "The world offers endless possibilities. Our value lies in knowing which ones deserve your time." },
-      { "number": "02", "title": "Personalization", "line": "No two journeys need to feel the same.", "body": "Nothing templated. Nothing excessive. Everything considered around who you are and how you move." },
-      { "number": "03", "title": "Precision", "line": "Every detail matters.", "body": "The finest travel experiences are created through the relationship between every detail, not a single hotel or destination." },
-      { "number": "04", "title": "Discovery", "line": "We look beyond the expected.", "body": "Less itinerary. More immersion. Less tourism. More discovery." },
-      { "number": "05", "title": "Service", "line": "Seamless support from beginning to end.", "body": "True luxury is rarely loud. It is the detail already handled before you have to ask." },
-      { "number": "06", "title": "Experience", "line": "The journey itself becomes the memory.", "body": "We do not simply arrange the journey. We compose it \u2014 so what remains is worth remembering." }
-    ]
+      {
+        "number": "01",
+        "title": "Curation",
+        "line": "We choose with intention, not volume.",
+        "body": "The world offers endless possibilities. Our value lies in knowing which ones deserve your time."
+      },
+      {
+        "number": "02",
+        "title": "Personalization",
+        "line": "No two journeys need to feel the same.",
+        "body": "Nothing templated. Nothing excessive. Everything considered around who you are and how you move."
+      },
+      {
+        "number": "03",
+        "title": "Precision",
+        "line": "Every detail matters.",
+        "body": "The finest travel experiences are created through the relationship between every detail, not a single hotel or destination."
+      },
+      {
+        "number": "04",
+        "title": "Discovery",
+        "line": "We look beyond the expected.",
+        "body": "Less itinerary. More immersion. Less tourism. More discovery."
+      },
+      {
+        "number": "05",
+        "title": "Service",
+        "line": "Seamless support from beginning to end.",
+        "body": "True luxury is rarely loud. It is the detail already handled before you have to ask."
+      },
+      {
+        "number": "06",
+        "title": "Experience",
+        "line": "The journey itself becomes the memory.",
+        "body": "We do not simply arrange the journey. We compose it \u2014 so what remains is worth remembering."
+      }
+    ],
+    "backgroundImage": {
+      "src": "https://images.unsplash.com/photo-1762392232172-5ece34fd8826?fm=jpg&q=80&w=2000&auto=format&fit=crop",
+      "alt": "Misty mountains overlooking a serene lake"
+    }
   },
   "experience": {
     "eyebrow": "The Six Experience",
     "heading": "One journey. Every element connected.",
     "items": {
-      "fly": { "label": "Fly", "body": "Global air travel curated around your schedule and priorities.", "image": { "src": "https://images.unsplash.com/photo-1613744696511-fd64320d6c7b?fm=jpg&q=80&w=1600&auto=format&fit=crop", "alt": "Airplane wing above clouds, representing global air travel" } },
-      "stay": { "label": "Stay", "body": "Exceptional hotels and executive residences, selected for distinction.", "image": { "src": "https://images.unsplash.com/photo-1621293954908-907159247fc8?fm=jpg&q=80&w=1600&auto=format&fit=crop", "alt": "Modern hotel lobby with designer furniture" } },
-      "move": { "label": "Move", "body": "Private transfers and executive transportation, coordinated from arrival to departure." },
-      "connect": { "label": "Connect", "body": "Corporate meetings, conferences, and business experiences managed with precision." },
-      "group": { "label": "Group", "body": "Coordination for leadership teams and delegations.", "image": { "src": "https://images.unsplash.com/photo-1532968899863-5b52ef155913?fm=jpg&q=80&w=1600&auto=format&fit=crop", "alt": "Group of business travelers walking together" } },
-      "manage": { "label": "Manage", "body": "A single, dedicated partner overseeing the complete corporate travel experience.", "ctaLabel": "Speak to the team" }
+      "fly": {
+        "label": "Fly",
+        "body": "Global air travel curated around your schedule and priorities.",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1613744696511-fd64320d6c7b?fm=jpg&q=80&w=1600&auto=format&fit=crop",
+          "alt": "Airplane wing above clouds, representing global air travel"
+        }
+      },
+      "stay": {
+        "label": "Stay",
+        "body": "Exceptional hotels and executive residences, selected for distinction.",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1621293954908-907159247fc8?fm=jpg&q=80&w=1600&auto=format&fit=crop",
+          "alt": "Modern hotel lobby with designer furniture"
+        }
+      },
+      "move": {
+        "label": "Move",
+        "body": "Private transfers and executive transportation, coordinated from arrival to departure."
+      },
+      "connect": {
+        "label": "Connect",
+        "body": "Corporate meetings, conferences, and business experiences managed with precision."
+      },
+      "group": {
+        "label": "Group",
+        "body": "Coordination for leadership teams and delegations.",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1532968899863-5b52ef155913?fm=jpg&q=80&w=1600&auto=format&fit=crop",
+          "alt": "Group of business travelers walking together"
+        }
+      },
+      "manage": {
+        "label": "Manage",
+        "body": "A single, dedicated partner overseeing the complete corporate travel experience.",
+        "ctaLabel": "Speak to the team"
+      }
     }
   },
   "philosophy": {
     "eyebrow": "Our Philosophy",
-    "headingLines": ["The best service is felt,", "not announced."],
+    "headingLines": [
+      "The best service is felt,",
+      "not announced."
+    ],
     "lines": [
       "True luxury is rarely loud.",
       "It is the car waiting precisely when you arrive.",
@@ -148,25 +294,65 @@
   "whoWeServe": {
     "eyebrow": "Travel For People Who Move Differently",
     "heading": "SIX TRAVEL creates experiences for people who value time, quality, discovery, and meaningful connection.",
-    "tags": ["Founders", "Entrepreneurs", "Executives", "Creators", "Families", "Corporate Teams", "Curious Travelers"]
+    "tags": [
+      "Founders",
+      "Entrepreneurs",
+      "Executives",
+      "Creators",
+      "Families",
+      "Corporate Teams",
+      "Curious Travelers"
+    ]
   },
   "beyondItinerary": {
     "eyebrow": "Beyond The Itinerary",
     "body": "A destination is only the beginning. We believe the most memorable journeys are found in the spaces between the major moments \u2014 the unexpected meal, the quiet morning, the local conversation, the extraordinary view, the perfect property, the road worth taking."
   },
   "reach": {
-    "badges": ["Six Travel", "Beyond Kerala"],
-    "headlineParts": ["The world,", "selected with discernment."],
+    "badges": [
+      "Six Travel",
+      "Beyond Kerala"
+    ],
+    "headlineParts": [
+      "The world,",
+      "selected with discernment."
+    ],
     "eyebrow": "Global Reach",
     "heading": "Our world is curated, not catalogued.",
     "paragraph": "Our perspective extends far beyond home. SIX TRAVEL curates journeys across global cities, private islands, distinguished coastlines, mountain retreats, cultural capitals, emerging destinations, and international business hubs.",
     "ctaLabel": "Explore International",
     "featuredCities": [
-      { "name": "New York", "image": { "src": "https://images.unsplash.com/photo-1496588152823-86ff7695e68f?fm=jpg&q=80&w=1600&auto=format&fit=crop", "alt": "New York City skyline with Brooklyn Bridge" } },
-      { "name": "Dubai", "image": { "src": "https://images.unsplash.com/photo-1663768266259-d723cfbe969b?fm=jpg&q=80&w=1200&auto=format&fit=crop", "alt": "Dubai skyline" } },
-      { "name": "Singapore", "image": { "src": "https://images.unsplash.com/photo-1774075884764-be7319c06e08?fm=jpg&q=80&w=1200&auto=format&fit=crop", "alt": "Singapore skyline with Marina Bay Sands" } }
+      {
+        "name": "New York",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1496588152823-86ff7695e68f?fm=jpg&q=80&w=1600&auto=format&fit=crop",
+          "alt": "New York City skyline with Brooklyn Bridge"
+        }
+      },
+      {
+        "name": "Dubai",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1663768266259-d723cfbe969b?fm=jpg&q=80&w=1200&auto=format&fit=crop",
+          "alt": "Dubai skyline"
+        }
+      },
+      {
+        "name": "Singapore",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1774075884764-be7319c06e08?fm=jpg&q=80&w=1200&auto=format&fit=crop",
+          "alt": "Singapore skyline with Marina Bay Sands"
+        }
+      }
     ],
-    "allCities": ["New York", "London", "Dubai", "Singapore", "Paris", "Riyadh", "Tokyo"],
+    "allCities": [
+      "New York",
+      "London",
+      "Dubai",
+      "Singapore",
+      "Paris",
+      "Riyadh",
+      "Tokyo"
+    ],
     "closingNote": "and wherever your next opportunity leads."
   },
   "contact": {
@@ -174,12 +360,30 @@
     "heading": "Let's plan your next journey.",
     "paragraph": "Tell us about your team and where business takes you. A Six Travel specialist will follow up with a tailored plan.",
     "serviceOptions": [
-      { "value": "fly", "label": "Fly \u2014 Air travel" },
-      { "value": "stay", "label": "Stay \u2014 Accommodations" },
-      { "value": "move", "label": "Move \u2014 Ground transfers" },
-      { "value": "connect", "label": "Connect \u2014 Events & meetings" },
-      { "value": "group", "label": "Group \u2014 Team coordination" },
-      { "value": "manage", "label": "Manage \u2014 Full program" }
+      {
+        "value": "fly",
+        "label": "Fly \u2014 Air travel"
+      },
+      {
+        "value": "stay",
+        "label": "Stay \u2014 Accommodations"
+      },
+      {
+        "value": "move",
+        "label": "Move \u2014 Ground transfers"
+      },
+      {
+        "value": "connect",
+        "label": "Connect \u2014 Events & meetings"
+      },
+      {
+        "value": "group",
+        "label": "Group \u2014 Team coordination"
+      },
+      {
+        "value": "manage",
+        "label": "Manage \u2014 Full program"
+      }
     ],
     "successHeading": "Request received.",
     "successBody": "A member of the Six Travel team will follow up within one business day.",
@@ -195,30 +399,69 @@
     "eyebrow": "Built For Those Who Move The World",
     "heading": "Designed around the people who carry the business forward.",
     "segments": [
-      { "title": "Executives", "body": "Travel designed around your time, preferences, privacy, and priorities." },
-      { "title": "Leadership Teams", "body": "Sophisticated movement for the people responsible for moving businesses forward." },
-      { "title": "Global Organizations", "body": "A consistent travel standard across markets, destinations, and teams." },
-      { "title": "Corporate Events", "body": "Seamless travel infrastructure for the meetings, gatherings, and experiences that bring business together." }
+      {
+        "title": "Executives",
+        "body": "Travel designed around your time, preferences, privacy, and priorities."
+      },
+      {
+        "title": "Leadership Teams",
+        "body": "Sophisticated movement for the people responsible for moving businesses forward."
+      },
+      {
+        "title": "Global Organizations",
+        "body": "A consistent travel standard across markets, destinations, and teams."
+      },
+      {
+        "title": "Corporate Events",
+        "body": "Seamless travel infrastructure for the meetings, gatherings, and experiences that bring business together."
+      }
     ]
   },
   "enterprise": {
     "eyebrow": "Enterprise Solutions",
     "heading": "Corporate journeys. Take business beyond borders.",
     "items": [
-      { "title": "Executive Travel", "body": "Seamless journeys designed around demanding schedules." },
-      { "title": "Corporate Delegations", "body": "Coordinated travel for teams moving together across destinations." },
-      { "title": "Business Events", "body": "Travel management for conferences, exhibitions, meetings, launches, and corporate occasions." },
-      { "title": "Incentive Journeys", "body": "Exceptional destination experiences designed to recognize and reward people." },
-      { "title": "Leadership Retreats", "body": "Thoughtfully curated environments for leadership, strategy, connection, and renewal." }
+      {
+        "title": "Executive Travel",
+        "body": "Seamless journeys designed around demanding schedules."
+      },
+      {
+        "title": "Corporate Delegations",
+        "body": "Coordinated travel for teams moving together across destinations."
+      },
+      {
+        "title": "Business Events",
+        "body": "Travel management for conferences, exhibitions, meetings, launches, and corporate occasions."
+      },
+      {
+        "title": "Incentive Journeys",
+        "body": "Exceptional destination experiences designed to recognize and reward people."
+      },
+      {
+        "title": "Leadership Retreats",
+        "body": "Thoughtfully curated environments for leadership, strategy, connection, and renewal."
+      }
     ],
     "closing": "Flights, accommodation, transportation, and destination logistics managed through one partner.",
-    "closingLabel": "Excellence in Execution"
+    "closingLabel": "Excellence in Execution",
+    "image": {
+      "src": "https://images.unsplash.com/photo-1621293954908-907159247fc8?fm=jpg&q=80&w=1600&auto=format&fit=crop",
+      "alt": "Modern hotel lobby with designer furniture, suited for executive meetings"
+    }
   },
   "curation": {
     "eyebrow": "The Six Experience\u2122 & The Art of Curation",
     "blocks": [
-      { "title": "The Six Experience\u2122", "heading": "We don't simply arrange the journey. We compose it.", "body": "Every SIX journey begins with a simple question: what should this experience feel like? The finest travel experiences are created through the relationship between every detail: the arrival, the property, the room, the view, the vehicle, the table, the experience, the moment between destinations." },
-      { "title": "The Art of Curation", "heading": "We don't simply choose. We edit.", "body": "The world offers endless possibilities. Our value lies in knowing which ones deserve your time. Find the exceptional. Remove the unnecessary. Create the unforgettable." }
+      {
+        "title": "The Six Experience\u2122",
+        "heading": "We don't simply arrange the journey. We compose it.",
+        "body": "Every SIX journey begins with a simple question: what should this experience feel like? The finest travel experiences are created through the relationship between every detail: the arrival, the property, the room, the view, the vehicle, the table, the experience, the moment between destinations."
+      },
+      {
+        "title": "The Art of Curation",
+        "heading": "We don't simply choose. We edit.",
+        "body": "The world offers endless possibilities. Our value lies in knowing which ones deserve your time. Find the exceptional. Remove the unnecessary. Create the unforgettable."
+      }
     ]
   },
   "selective": {
@@ -236,9 +479,19 @@
     ]
   },
   "footer": {
-    "closingLines": ["Go somewhere worth", "remembering."],
+    "closingLines": [
+      "Go somewhere worth",
+      "remembering."
+    ],
     "closingSubline": "Kerala to the World. One Travel House. An Endless Horizon.",
     "contactEmail": "hello@sixtravel.studio",
     "copyright": "Six Travel. All rights reserved."
+  },
+  "keralaBanner": {
+    "word": "Kerala",
+    "image": {
+      "src": "https://images.unsplash.com/photo-1593693411515-c20261bcad6e?fm=jpg&q=80&w=2000&auto=format&fit=crop",
+      "alt": "A traditional houseboat on the palm-lined backwaters of Alappuzha, Kerala"
+    }
   }
 }
