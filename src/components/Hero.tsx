@@ -16,66 +16,55 @@ export default function Hero() {
   const [open, setOpen] = useState(false);
 
   return (
-    <section id="top" className="relative overflow-hidden">
-      <div className="relative h-[80vh] min-h-[560px] w-full">
-        <Image src={hero.image.src} alt={hero.image.alt} fill priority className="object-cover" />
-        <div className="absolute inset-0 bg-gradient-to-b from-stone/70 via-stone/20 to-stone" />
+    <section id="top" className="relative flex h-screen min-h-[640px] w-full items-center justify-center overflow-hidden">
+      <Image src={hero.image.src} alt={hero.image.alt} fill priority className="object-cover" />
+      <div className="absolute inset-0 bg-gradient-to-b from-black/10 via-black/5 to-black/50" />
 
-        <div className="absolute inset-x-0 top-0 z-10 flex items-center justify-between px-6 py-6 md:px-10">
-          <span className="font-display text-lg tracking-[0.1em] text-ink">SIX TRAVEL</span>
+      <div className="absolute inset-0 flex items-center justify-center">
+        <div className="absolute inset-x-6 top-24 bottom-16 border border-white/25 bg-black/20 backdrop-blur-sm md:inset-x-16 md:top-28 md:bottom-20" />
+      </div>
 
-          <nav className="hidden items-center gap-10 md:flex">
+      <div className="absolute inset-x-6 top-24 z-10 flex items-center justify-between px-6 py-2 md:inset-x-16 md:top-28 md:px-10">
+        <span className="font-display text-lg font-bold tracking-[0.06em] text-white">
+          SIX <span className="font-normal">TRAVEL</span>
+        </span>
+
+        <nav className="hidden items-center gap-8 md:flex">
+          {NAV.map((item) => (
+            <a key={item.href} href={item.href} className="text-sm font-medium text-white/90 transition-colors hover:text-white">
+              {item.label}
+            </a>
+          ))}
+        </nav>
+
+        <button onClick={() => setOpen((v) => !v)} aria-label="Toggle menu" className="flex flex-col gap-1.5 md:hidden">
+          <span className="h-px w-6 bg-white" />
+          <span className="h-px w-6 bg-white" />
+        </button>
+      </div>
+
+      {open && (
+        <div className="absolute inset-x-6 top-16 z-20 border border-white/25 bg-black/60 p-6 backdrop-blur-md md:hidden">
+          <div className="flex flex-col gap-4">
             {NAV.map((item) => (
-              <a key={item.href} href={item.href} className="text-sm text-ink-soft transition-colors hover:text-ink">
+              <a key={item.href} href={item.href} onClick={() => setOpen(false)} className="font-display text-xl text-white">
                 {item.label}
               </a>
             ))}
-          </nav>
-
-          <button onClick={() => setOpen((v) => !v)} aria-label="Toggle menu" className="flex flex-col gap-1.5 md:hidden">
-            <span className="h-px w-6 bg-ink" />
-            <span className="h-px w-6 bg-ink" />
-          </button>
-        </div>
-
-        {open && (
-          <div className="absolute inset-x-0 top-16 z-20 mx-4 border border-line bg-stone-2 p-6 md:hidden">
-            <div className="flex flex-col gap-4">
-              {NAV.map((item) => (
-                <a key={item.href} href={item.href} onClick={() => setOpen(false)} className="font-display text-xl text-ink">
-                  {item.label}
-                </a>
-              ))}
-            </div>
           </div>
-        )}
-      </div>
+        </div>
+      )}
 
-      <div className="relative z-10 -mt-32 px-6 pb-20 text-center md:-mt-40 md:px-10">
-        <p className="font-script text-2xl md:text-3xl">{hero.eyebrow}</p>
-        <h1 className="font-display mt-2 text-5xl leading-[1.05] text-ink md:text-7xl">
-          {hero.headlineLines.map((line, i) => (
-            <span key={i}>
-              {line}
-              {i < hero.headlineLines.length - 1 && <br />}
-            </span>
-          ))}
-        </h1>
-        <p className="mx-auto mt-6 max-w-lg text-sm leading-relaxed text-ink-soft md:text-base">
+      <h1 className="pointer-events-none absolute inset-x-0 z-[5] text-center font-sans text-[22vw] font-black uppercase leading-none tracking-tight text-white/90 md:text-[16vw]">
+        {hero.bigWord}
+      </h1>
+
+      <div className="relative z-10 mt-24 flex flex-col items-center px-6 text-center md:mt-32">
+        <p className="max-w-md text-sm text-white/90 md:text-base">
           {hero.paragraph}
         </p>
-
-        <div className="mx-auto mt-12 grid max-w-2xl grid-cols-3 divide-x divide-line">
-          {hero.quickFacts.map((fact) => (
-            <div key={fact.label} className="px-4">
-              <p className="font-display text-2xl text-ink md:text-3xl">{fact.value}</p>
-              <p className="eyebrow mt-1">{fact.label}</p>
-            </div>
-          ))}
-        </div>
-
-        <a href="#contact" className="link-underline mt-12 inline-block text-sm">
-          Enquire Today &rarr;
+        <a href="#contact" className="mt-8 rounded-full border border-white/70 px-8 py-3 text-xs font-semibold uppercase tracking-[0.12em] text-white transition-colors hover:bg-white hover:text-black">
+          {hero.ctaLabel}
         </a>
       </div>
     </section>
