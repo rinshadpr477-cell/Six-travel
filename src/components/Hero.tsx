@@ -55,11 +55,7 @@ export default function Hero() {
         </div>
       )}
 
-      <h1 className="pointer-events-none absolute inset-x-0 z-[5] text-center font-sans text-[22vw] font-black uppercase leading-none tracking-tight text-white/90 md:text-[16vw]">
-        {hero.bigWord}
-      </h1>
-
-      <div className="relative z-10 mt-24 flex flex-col items-center px-6 text-center md:mt-32">
+      <div className="relative z-10 flex flex-col items-center px-6 text-center">
         <p className="max-w-md text-sm text-white/90 md:text-base">
           {hero.paragraph}
         </p>

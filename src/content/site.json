@@ -51,7 +51,11 @@
   "differentWay": {
     "eyebrow": "A Different Way",
     "heading": "To see the world.",
-    "body": "Travel has become easier. Exceptional travel has become rarer. At SIX TRAVEL, we believe the best journeys are not defined by how many places you visit, but by how deeply you experience them. We look beyond standard itineraries to discover places with character, experiences with meaning, and moments that stay with you long after the journey ends."
+    "body": "Travel has become easier. Exceptional travel has become rarer. At SIX TRAVEL, we believe the best journeys are not defined by how many places you visit, but by how deeply you experience them. We look beyond standard itineraries to discover places with character, experiences with meaning, and moments that stay with you long after the journey ends.",
+    "image": {
+      "src": "https://images.unsplash.com/photo-1755462518641-96732039dc57?fm=jpg&q=80&w=2000&auto=format&fit=crop",
+      "alt": "Misty mountains looming over rolling green hills"
+    }
   },
   "excellence": {
     "eyebrow": "Our Philosophy",
@@ -135,17 +139,29 @@
       {
         "title": "Kerala",
         "tagline": "Our home. Our heritage. Our beginning.",
-        "body": "A land of quiet backwaters, dramatic highlands, expansive coastlines, living heritage, extraordinary cuisine, and deeply rooted culture. We create journeys that reveal Kerala beyond conventional tourism."
+        "body": "A land of quiet backwaters, dramatic highlands, expansive coastlines, living heritage, extraordinary cuisine, and deeply rooted culture. We create journeys that reveal Kerala beyond conventional tourism.",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1593693411515-c20261bcad6e?fm=jpg&q=80&w=1600&auto=format&fit=crop",
+          "alt": "A traditional houseboat on the palm-lined backwaters of Alappuzha, Kerala"
+        }
       },
       {
         "title": "India",
         "tagline": "A country of endless possibilities.",
-        "body": "India is not one destination. It is thousands of stories, landscapes, cultures, and traditions waiting to be discovered \u2014 from sophisticated cities to remote escapes, curated differently."
+        "body": "India is not one destination. It is thousands of stories, landscapes, cultures, and traditions waiting to be discovered \u2014 from sophisticated cities to remote escapes, curated differently.",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1573152112699-8b07fb006739?fm=jpg&q=80&w=1600&auto=format&fit=crop",
+          "alt": "The Taj Mahal in Agra, India, during daytime"
+        }
       },
       {
         "title": "The World",
         "tagline": "Selected with discernment.",
-        "body": "Our journey extends beyond India. We curate destinations across the world based on character, quality, beauty, authenticity, and hospitality. Our world is curated, not catalogued."
+        "body": "Our journey extends beyond India. We curate destinations across the world based on character, quality, beauty, authenticity, and hospitality. Our world is curated, not catalogued.",
+        "image": {
+          "src": "https://images.unsplash.com/photo-1663768266259-d723cfbe969b?fm=jpg&q=80&w=1600&auto=format&fit=crop",
+          "alt": "Dubai skyline"
+        }
       }
     ]
   },
@@ -157,22 +173,26 @@
       {
         "title": "Backwaters",
         "tagline": "Stillness, in motion.",
-        "body": "Private waterways, elegant houseboats, secluded waterfront retreats, and mornings that unfold at the pace of the water."
+        "body": "Private waterways, elegant houseboats, secluded waterfront retreats, and mornings that unfold at the pace of the water.",
+        "image": "https://images.unsplash.com/photo-1593693411515-c20261bcad6e?fm=jpg&q=80&w=1200&auto=format&fit=crop"
       },
       {
         "title": "Highlands",
         "tagline": "Where the world slows down.",
-        "body": "Tea estates, spice plantations, mountain forests, mist-covered landscapes, and extraordinary highland retreats."
+        "body": "Tea estates, spice plantations, mountain forests, mist-covered landscapes, and extraordinary highland retreats.",
+        "image": "https://images.unsplash.com/photo-1762392232172-5ece34fd8826?fm=jpg&q=80&w=1200&auto=format&fit=crop"
       },
       {
         "title": "Coast",
         "tagline": "The Arabian Sea, reimagined.",
-        "body": "Tropical shores, refined coastal properties, private escapes, and endless horizons."
+        "body": "Tropical shores, refined coastal properties, private escapes, and endless horizons.",
+        "image": "https://images.unsplash.com/photo-1561521094-042942434853?fm=jpg&q=80&w=1200&auto=format&fit=crop"
       },
       {
         "title": "Heritage",
         "tagline": "Where the past remains present.",
-        "body": "Architecture, craftsmanship, traditions, art, and stories carried through generations."
+        "body": "Architecture, craftsmanship, traditions, art, and stories carried through generations.",
+        "image": "https://images.unsplash.com/photo-1573152112699-8b07fb006739?fm=jpg&q=80&w=1200&auto=format&fit=crop"
       },
       {
         "title": "Culinary",
@@ -196,37 +216,43 @@
         "number": "01",
         "title": "Curation",
         "line": "We choose with intention, not volume.",
-        "body": "The world offers endless possibilities. Our value lies in knowing which ones deserve your time."
+        "body": "The world offers endless possibilities. Our value lies in knowing which ones deserve your time.",
+        "image": "https://images.unsplash.com/photo-1593693411515-c20261bcad6e?fm=jpg&q=80&w=800&auto=format&fit=crop"
       },
       {
         "number": "02",
         "title": "Personalization",
         "line": "No two journeys need to feel the same.",
-        "body": "Nothing templated. Nothing excessive. Everything considered around who you are and how you move."
+        "body": "Nothing templated. Nothing excessive. Everything considered around who you are and how you move.",
+        "image": "https://images.unsplash.com/photo-1521109464564-2fa2faa95858?fm=jpg&q=80&w=800&auto=format&fit=crop"
       },
       {
         "number": "03",
         "title": "Precision",
         "line": "Every detail matters.",
-        "body": "The finest travel experiences are created through the relationship between every detail, not a single hotel or destination."
+        "body": "The finest travel experiences are created through the relationship between every detail, not a single hotel or destination.",
+        "image": "https://images.unsplash.com/photo-1613744696511-fd64320d6c7b?fm=jpg&q=80&w=800&auto=format&fit=crop"
       },
       {
         "number": "04",
         "title": "Discovery",
         "line": "We look beyond the expected.",
-        "body": "Less itinerary. More immersion. Less tourism. More discovery."
+        "body": "Less itinerary. More immersion. Less tourism. More discovery.",
+        "image": "https://images.unsplash.com/photo-1573152112699-8b07fb006739?fm=jpg&q=80&w=800&auto=format&fit=crop"
       },
       {
         "number": "05",
         "title": "Service",
         "line": "Seamless support from beginning to end.",
-        "body": "True luxury is rarely loud. It is the detail already handled before you have to ask."
+        "body": "True luxury is rarely loud. It is the detail already handled before you have to ask.",
+        "image": "https://images.unsplash.com/photo-1621293954908-907159247fc8?fm=jpg&q=80&w=800&auto=format&fit=crop"
       },
       {
         "number": "06",
         "title": "Experience",
         "line": "The journey itself becomes the memory.",
-        "body": "We do not simply arrange the journey. We compose it \u2014 so what remains is worth remembering."
+        "body": "We do not simply arrange the journey. We compose it \u2014 so what remains is worth remembering.",
+        "image": "https://images.unsplash.com/photo-1762392232172-5ece34fd8826?fm=jpg&q=80&w=800&auto=format&fit=crop"
       }
     ],
     "backgroundImage": {
@@ -303,11 +329,19 @@
       "Families",
       "Corporate Teams",
       "Curious Travelers"
-    ]
+    ],
+    "backgroundImage": {
+      "src": "https://images.unsplash.com/photo-1532968899863-5b52ef155913?fm=jpg&q=80&w=2000&auto=format&fit=crop",
+      "alt": "Group of travelers walking together"
+    }
   },
   "beyondItinerary": {
     "eyebrow": "Beyond The Itinerary",
-    "body": "A destination is only the beginning. We believe the most memorable journeys are found in the spaces between the major moments \u2014 the unexpected meal, the quiet morning, the local conversation, the extraordinary view, the perfect property, the road worth taking."
+    "body": "A destination is only the beginning. We believe the most memorable journeys are found in the spaces between the major moments \u2014 the unexpected meal, the quiet morning, the local conversation, the extraordinary view, the perfect property, the road worth taking.",
+    "image": {
+      "src": "https://images.unsplash.com/photo-1521109464564-2fa2faa95858?fm=jpg&q=80&w=2000&auto=format&fit=crop",
+      "alt": "Boats on open water under a dramatic sky"
+    }
   },
   "reach": {
     "badges": [
@@ -463,7 +497,11 @@
         "heading": "We don't simply choose. We edit.",
         "body": "The world offers endless possibilities. Our value lies in knowing which ones deserve your time. Find the exceptional. Remove the unnecessary. Create the unforgettable."
       }
-    ]
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1774075884764-be7319c06e08?fm=jpg&q=80&w=1200&auto=format&fit=crop",
+      "alt": "Singapore skyline with Marina Bay Sands"
+    }
   },
   "selective": {
     "eyebrow": "Selective By Design",
@@ -477,7 +515,11 @@
       "Coordinate the movement",
       "Curate the experiences",
       "Anticipate the details"
-    ]
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1561521094-042942434853?fm=jpg&q=80&w=1200&auto=format&fit=crop",
+      "alt": "Coconut trees reflected in a still pond, Kerala"
+    }
   },
   "footer": {
     "closingLines": [
